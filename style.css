@@ -7,3 +7,19 @@ header {
     padding-bottom: 50px;
 }
 
+.main1 {
+    display: grid;
+    grid-template-columns: auto 40%
+}
+
+.main2 {
+    background-image: url('images/bg-boost-desktop.svg');
+    background-color: hsl(257, 27%, 26%);
+    padding: 40px;
+    border-radius: 10px;
+    
+}
+
+ .main2 button  {
+    width: 12rem;
+}

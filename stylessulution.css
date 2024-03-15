@@ -1,9 +1,9 @@
-@import 'css/normalize.css';
+/* @import 'css/normalize.css';
 @import 'css/layout.css';
 @import 'css/theme.css';
 
 /* #region Common Styles */
-
+/*
 .btn {
   font-family: var(--font-family-sans-serif);
   border-radius: 30px;
@@ -623,4 +623,4 @@
   }
 }
 
-/* #endregion */
+#endregion */
